@@ -30,6 +30,8 @@ Users can remove liquidity at any time to swap LP tokens back to the correspondi
 
 #### Create Pools
 
+In order for the pool to begin facilitating trades, someone must create and seed it with an initial deposit of each token. This first liquidity provider is the one who sets the initial price of the pool. They are incentivized to deposit an equal value of both tokens into the pool. To see why, consider the case where the first liquidity provider deposits tokens at a ratio different from the current market rate. This immediately creates a profitable arbitrage opportunity, which is likely to be taken by an external party. in order for the pool to begin facilitating trades, someone must seed it with an initial deposit of each token. This first liquidity provider is the one who sets the initial price of the pool. They are incentivized to deposit an equal value of both tokens into the pool. To see why, consider the case where the first liquidity provider deposits tokens at a ratio different from the current market rate. This immediately creates a profitable arbitrage opportunity, which is likely to be taken by an external party.
+
 #### Time Lock
 The **Time Lock** setting is the date a provider is willing to lock their liquidity tokens until the date. Liquidity locking is a notion that was created to protect investors from falling for this scam.
 
