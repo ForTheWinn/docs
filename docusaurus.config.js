@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FTW Swap',
   tagline: 'Building some cool decentralized stuff on NEO blockchain',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.forthewin.network/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,7 +25,7 @@ const config = {
 	        routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/ForTheWinn/docs/tree/main',
         },
         blog: false,
         theme: {
