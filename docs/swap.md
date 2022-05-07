@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # FTWSwap
 
-FTWSwap is a Decentralized Finance (DeFi) platform where users can convert assets, provide liquidity, and earn yield through staking. The FTWSwap token (NEP) functions as the rewards token users can earn by adding liquidity to liquidity pools and staking their liquidity pool tokens (LP tokens). The platform facilitates automated transactions between cryptocurrency tokens on the Neo N3 blockchain through the use of smart contracts.
+FTWSwap is a Decentralized Finance (DeFi) platform where users can swap, provide liquidity, and earn swap fees. The platform facilitates automated transactions between cryptocurrency tokens on the Neo N3 blockchain through the use of smart contracts.
 
 ## ASSET ACTIONS
 
-The FTWSwap DeFi platform is compiled of several asset actions users can take: **Swap**, **Create a Pool**, **Add Liquidity**, **Remove Liquidity**, **Stake LP tokens**, and **Unstake**. Users can perform any of these actions in Swap and Farm pages.
+The FTWSwap DeFi platform is compiled of several asset actions users can take: **Swap**, **Create a Pool**, **Add Liquidity**, **Remove Liquidity**, **Stake LP tokens**, and **Unstake**. Users can perform any of these actions in [FTWSwap page](https://www.forthewin.network/#/swap).
 
 ### SWAP
 
@@ -33,16 +33,21 @@ Users can remove liquidity at any time to swap LP tokens back to the correspondi
 In order for the pool to begin facilitating trades, someone must create and seed it with an initial deposit of each token. This first liquidity provider is the one who sets the initial price of the pool. They are incentivized to deposit an equal value of both tokens into the pool. To see why, consider the case where the first liquidity provider deposits tokens at a ratio different from the current market rate. This immediately creates a profitable arbitrage opportunity, which is likely to be taken by an external party. in order for the pool to begin facilitating trades, someone must seed it with an initial deposit of each token. This first liquidity provider is the one who sets the initial price of the pool. They are incentivized to deposit an equal value of both tokens into the pool. To see why, consider the case where the first liquidity provider deposits tokens at a ratio different from the current market rate. This immediately creates a profitable arbitrage opportunity, which is likely to be taken by an external party.
 
 #### Time Lock
+
 The **Time Lock** setting is the date a provider is willing to lock their liquidity tokens until the date. Liquidity locking is a notion that was created to protect investors from falling for this scam.
 
-#### LP Tokens
+## LP TOKENS
 
-FTWSwap uses NEP-11 (NFT) for LP tokens.
+LP tokens represent a liquidity provider's share of a pool, and the liquidity provider remains entirely in control of the token. For example, if you contribute $10 USD worth of assets to a pool that has a total worth of $100, you would receive 10% of that pool's LP tokens. FTWSwap uses NEP-11 standard for LP tokens.
 
-### STAKE & UNSTAKE
+### Yield Farming with LP Tokens
 
-Once users have **added liquidity**, they can **stake** their LP tokens to earn rewards in NEP. Each liquidity pool earns an annul percentage yield (APY) which is calculated by the total value of liquidity locked vs the value of how many LEP tokens are minted per year for the pool. For example, if there is $100,000 USD total in a pool, and that pool gets 1,000 NEP tokens per day, and each NEP token = $0.10 USD, then 1,000 * 365 = 365,000 * $0.10 = $36,500 USD. $36,500 / $100,000 * 100 = 36.5% APY.
-Each liquidity pool is allocated a percentage of the total NEP minted in a year.
+LP tokens can have extra rewards by staking in [FTWFarm page](https://www.forthewin.network/#/farm).
 
-Users can **unstake** their LP tokens at any time. Once their tokens are unstaked, users will still own LP tokens but the tokens will no longer be staked into liquidity pools. Users can remove liquidity at any time to swap LP tokens back to the corresponding assets.
+## SWAP FEES
 
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool. Whenever someone trades on FTWSwap, the trader pays a 0.25% fee, of which 0.17% is added to the Liquidity Pool of the swap pair they traded on.
+
+## IMPERMANENT LOSS
+
+Providing liquidity is not without risk, as you may be exposed to impermanent loss.
