@@ -6,6 +6,9 @@ sidebar_position: 4
 
 FTWFarm allows users to earn NEP tokens while supporting FTWSwap by staking LP Tokens.
 
+**Tutorial video**<br/>
+[https://www.youtube.com/watch?v=uGr923OZSuI](https://www.youtube.com/watch?v=uGr923OZSuI)
+
 ## ASSET ACTIONS
 
 The FTWFarm is compiled of several asset actions users can take: **Stake LP tokens**, **UnStake**, **Claim rewards**. Users can perform any of these actions in [FTWFarm page](https://www.forthewin.network/#/farm).

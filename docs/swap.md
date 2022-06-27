@@ -6,6 +6,9 @@ sidebar_position: 3
 
 FTWSwap is a Decentralized Finance (DeFi) platform where users can swap, provide liquidity, and earn swap fees. The platform facilitates automated transactions between cryptocurrency tokens on the Neo N3 blockchain through the use of smart contracts.
 
+**Tutorial video**<br/>
+[https://www.youtube.com/watch?v=uGr923OZSuI](https://www.youtube.com/watch?v=uGr923OZSuI) 
+
 ## ASSET ACTIONS
 
 The FTWSwap DeFi platform is compiled of several asset actions users can take: **Swap**, **Create a Pool**, **Add Liquidity**, **Remove Liquidity**, **Stake LP tokens**, and **Unstake**. Users can perform any of these actions in [FTWSwap page](https://www.forthewin.network/#/swap).
