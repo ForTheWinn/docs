@@ -12,22 +12,26 @@ NEP is the governance token used to vote on Forthewin platform development, and 
 
 1,000,000,000 NEP (100%)
 
-**Initial swap**
+**Initial DEX offering**
 
-50,000,000 NEP (5%)
+3,264,370.51 NEP (0.33%)
+
+**Initial pools**
+
+1,835,629 NEP  (0.18%)
 
 **Team tokens (with vesting)**
 
 50,000,000 NEP (5%)
 
-**Initial NEP pools**
-
-25,000,000 NEP (2.5%)
-
 **Marketing & Advisors**
 
-5,000,000 NEP  (0.5%)
+15,000,000 NEP  (1.5%)
+
+**Reserve for startup pools**
+
+20,000,000 NEP  (2%)
 
 **Staking rewards**
 
-870,000,000 NEP (87%)
+909,900,000 NEP (90.99%)
