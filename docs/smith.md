@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# FTWSmith
+# Smith (Mint)
 
 **Deploy** your **NEP-17** smart contract and **NEP-11** smart contract on N3 in a few clicks.
 

@@ -5,7 +5,7 @@ slug: /
 
 # Introduction
 
-Building some cool decentralized stuff on NEO blockchain.
+All-in-one solution for crypto startups.
 
 ## FTW Eco-system
 ![Diagram](/img/diagram.png)

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 6
 ---
 
-# FTWRunes
+# Runes (NFT)
 
 FTW Rune is an **algorithmically generated NFT created and stored onchain** in a truly decentralized manner. The .svg image of the FTW Rune NFT is kept in Base64 mime type within smart contract storage. This method removes any dependency on a centralized or impermanent host on HTTP or IPFS. Anyone can grab the Base64 form of the SVG file from the contract storage, decode the Base64, and view the SVG file in an image viewer, editor, or browser.
 

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# FTWSwap
+# Swap (Trade)
 
 FTWSwap is a Decentralized Finance (DeFi) platform where users can swap, provide liquidity, and earn swap fees. The platform facilitates automated transactions between cryptocurrency tokens on the Neo N3 blockchain through the use of smart contracts.
 
