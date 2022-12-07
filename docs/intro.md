@@ -5,34 +5,26 @@ slug: /
 
 # Introduction
 
-All-in-one solution for crypto startups.
+DeFi, Web3 tools and NFT on Neo Blockchain.
 
-## FTW Eco-system
 ![Diagram](/img/diagram.png)
-[Diagram](https://www.figma.com/file/2ZJcoZd8E6HNGPO1KQ3k55/FTW)
 
-### MINT
 
-[**FTWSmith**](https://docs.forthewin.network/smith) assists users to deploy NEP-17 and NEP-11 smart contracts without any coding challenges. Forthewin eco-system will help the tokens to find its usability and value together.
+### DeFi
 
-### TRADE
+[**FTW Swap**](https://docs.forthewin.network/swap) is a simple way to trade one NEP-17 token for another via automated liquidity pools.
 
-[**FTWSwap**](https://docs.forthewin.network/swap) is a simple way to trade one NEP-17 token for another via automated liquidity pools.
+[**FTW Double Farm**](https://docs.forthewin.network/double-farm) Earn $NEP tokens by staking LP tokens.
 
-### EARN
+### Web3 tools
 
-[**FTWFarm**](https://docs.forthewin.network/farm) gives you great returns. Earn NEP tokens by staking LP tokens.
+[**FTW Smith**](https://docs.forthewin.network/smith) assists users to deploy NEP-17 and NEP-11 smart contracts without any coding challenges.
 
-### PLAY
+[**FTW Locker**](https://docs.forthewin.network/locker) allows users to send NEP-17 tokens (Fungible tokens) to others with timelocks.
 
-[**FTWRunes**](https://docs.forthewin.network/runes) Collect only 500 rune NFT and enjoy it in the metaverse.
+### NFT
 
-### RAFFLE
+[**FTW Runes**](https://docs.forthewin.network/runes) 500 algorithmically generated pixel NFTs created and stored onchain.
 
-FTWRaffle will allow people can host raffle games using NEP-17 tokens.
-> In progress
+[**Neo Boyz**](https://docs.forthewin.network/boyz) 3333 unique collectible characters stored on Neo blockchain.
 
-### VOTE
-
-FTWVote will allow people can create voting channels using NEP-17 tokens with topics and settings.
-> In progress

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Locker (Vesting)
+# Locker (Tools)
 
 FTW locker allows users to send NEP-17 tokens (Fungible tokens) to others with timelocks. It issues a NFT as the key for unlock and sends to the receiver. The key-holder can unlock the funds when unlock time is up by sending the key token to the locker contract.
 

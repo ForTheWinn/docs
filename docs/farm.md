@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
-# Farms (Earn)
+# Farms (DeFi)
 
 FTWFarm allows users to earn NEP tokens while supporting FTWSwap by staking LP Tokens.
 
