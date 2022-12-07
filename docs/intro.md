@@ -14,7 +14,7 @@ DeFi, Web3 tools and NFT on Neo Blockchain.
 
 [**FTW Swap**](https://docs.forthewin.network/swap) is a simple way to trade one NEP-17 token for another via automated liquidity pools.
 
-[**FTW Double Farm**](https://docs.forthewin.network/double-farm) Earn $NEP tokens by staking LP tokens.
+[**FTW Double Farm**](https://docs.forthewin.network/farm) Earn $NEP tokens by staking LP tokens.
 
 ### Web3 tools
 
