@@ -25,3 +25,7 @@ Users can **unstake** their LP tokens at any time. Once their tokens are unstake
 
 After staking LP tokens, users mint NEP tokens in real time. Users can then Claim the allocated NEP as Rewards and the claimed NEP rewards are immediately sent to the user's wallet.
 
+### IMPERMANENT LOSS
+
+Providing liquidity in the pools is a great way to generate rewards, however, it exposes the liquidity providers to Impermanent loss. Checkout this article by Binance Academy to understand this important concept. 
+https://academy.binance.com/en/articles/impermanent-loss-explained
